@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+#  About Me:
 - 👋 Hi, I’m @mohit4901<br>- 👀 I’m interested in web-dev and AI<br>-  I’m looking to collaborate on hackathon projects.<br>-  Reach me on linkedIn @mohitmudgil<br>- 😄 Pronouns: he/him<br>
 
 
