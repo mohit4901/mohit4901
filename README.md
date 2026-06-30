@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
 </p>
  
-### 🚀 About Me
+### About Me
  
 - 🎓 B.Tech in Computer Science Engineering @ Deenbandhu Chhotu Ram University of Science and Technology, Haryana (2024 – 2028)
 - 💼 Completed Full Stack Development Internship @ **GoGlobalways** — building the Bharat AI Olympiad (BAIO) platform (May-June 2026)
