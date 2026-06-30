@@ -10,7 +10,6 @@
   <a href="https://github.com/mohit4901" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" /></a>
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
 </p>
----
  
 ### 🚀 About Me
  
@@ -20,23 +19,6 @@
 - 🏆 Finalist — Meta × Hugging Face × OpenEnv × PyTorch Hackathon 2026 (Top 2.5% among 71K+ developers)
 - 🏆 Winner — Devcation Delhi Hackathon 2026 (IIT Delhi)
 - 📍 Based in Panipat, Haryana, India
----
- 
-### 🔨 Featured Projects
- 
-**[IncidentMind](https://github.com/mohit4901)** — Autonomous Infrastructure Failure Diagnosis System
-Python · Qwen-2.5 · OpenEnv · GRPO · Reinforcement Learning
-Autonomous AI system diagnosing distributed infrastructure failures from logs, telemetry, and service-state data; GRPO-trained reasoning workflow improved incident resolution rate from 10% to 85% across 60 benchmark evaluations.
- 
-**[PyQ Platform](https://github.com/mohit4901)** — OCR Academic Search Engine
-React.js · Node.js · MongoDB · Tesseract.js · PDF.js
-OCR-powered academic search engine indexing 10,264+ university examination papers with sub-50ms search latency via optimized MongoDB indexing.
- 
-**[Wobblix](https://github.com/mohit4901)** — Production-Grade E-Commerce Platform
-React.js · Node.js · MongoDB · Razorpay · JWT · Helmet.js
-Production MERN commerce platform handling 29K+ edge requests with HMAC-SHA256 secured transactions, stateless authentication, and a scalable cloud-native architecture.
- 
----
  
 ### 🛠️ Tech Stack
  
@@ -80,12 +62,11 @@ Production MERN commerce platform handling 29K+ edge requests with HMAC-SHA256 s
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface badge"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase badge"/>
 </div>
----
+
  
 ### 📊 GitHub Stats
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit4901&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="165" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit4901&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="165" alt="top languages" />
 </div>
 <div align="center">
@@ -98,7 +79,6 @@ Production MERN commerce platform handling 29K+ edge requests with HMAC-SHA256 s
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohit4901/mohit4901/output/pacman-contribution-graph.svg">
   </picture>
 </div>
----
  
 ### 🏅 Achievements
  
@@ -106,10 +86,7 @@ Production MERN commerce platform handling 29K+ edge requests with HMAC-SHA256 s
 - 🥇 Winner — Devcation Delhi Hackathon 2026 (IIT Delhi)
 - 🥈 2nd Position — SSH 1.0 Hackathon (Satyaansh SoftTech Pvt. Ltd.)
 - 🥉 3rd Runner-Up — InnovAItion Hackathon (Intuitive.ai)
-- 👨‍💻 Web Development Lead — Google Developers Group On Campus (GDG OC)
-- 📚 Active Member — LISOC (Literature Society On Campus)
----
- 
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mohit4901.mohit4901" alt="visitor badge"/>
 </p>
