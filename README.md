@@ -14,10 +14,8 @@
 ### 🚀 About Me
  
 - 🎓 B.Tech in Computer Science Engineering @ Deenbandhu Chhotu Ram University of Science and Technology, Haryana (2024 – 2028)
-- 💼 Full Stack Developer Intern @ **GoGlobalways** — building the Bharat AI Olympiad (BAIO) platform
+- 💼 Completed Full Stack Development Internship @ **GoGlobalways** — building the Bharat AI Olympiad (BAIO) platform (May-June 2026)
 - 🧠 Co-Author of a research paper accepted at **Elsevier SSRN Proceedings (ICDPN 2026)** — Top 20% of reviewed submissions
-- 🏆 Finalist — Meta × Hugging Face × OpenEnv × PyTorch Hackathon 2026 (Top 2.5% among 71K+ developers)
-- 🏆 Winner — Devcation Delhi Hackathon 2026 (IIT Delhi)
 - 📍 Based in Panipat, Haryana, India
  
 ### 🛠️ Tech Stack
@@ -65,10 +63,7 @@
 
  
 ### 📊 GitHub Stats
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit4901&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="165" alt="top languages" />
-</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mohit4901&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="165" alt="streak stats" />
 </div>
