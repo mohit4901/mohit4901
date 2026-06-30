@@ -1,78 +1,117 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
+<h1 align="center">Hi, I'm Mohit Mudgil 👋</h1>
+<h3 align="center">Software Engineer | Full Stack Developer (MERN) | Applied AI</h3>
+ 
+<p align="center">
+  Computer Science undergraduate building production-grade MERN applications, autonomous AI systems, and scalable web platforms.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="mailto:mohittt0011@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
+  <a href="https://github.com/mohit4901" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" /></a>
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+</p>
+---
+ 
+### 🚀 About Me
+ 
+- 🎓 B.Tech in Computer Science Engineering @ Deenbandhu Chhotu Ram University of Science and Technology, Haryana (2024 – 2028)
+- 💼 Full Stack Developer Intern @ **GoGlobalways** — building the Bharat AI Olympiad (BAIO) platform
+- 🧠 Co-Author of a research paper accepted at **Elsevier SSRN Proceedings (ICDPN 2026)** — Top 20% of reviewed submissions
+- 🏆 Finalist — Meta × Hugging Face × OpenEnv × PyTorch Hackathon 2026 (Top 2.5% among 71K+ developers)
+- 🏆 Winner — Devcation Delhi Hackathon 2026 (IIT Delhi)
+- 📍 Based in Panipat, Haryana, India
+---
+ 
+### 🔨 Featured Projects
+ 
+**[IncidentMind](https://github.com/mohit4901)** — Autonomous Infrastructure Failure Diagnosis System
+Python · Qwen-2.5 · OpenEnv · GRPO · Reinforcement Learning
+Autonomous AI system diagnosing distributed infrastructure failures from logs, telemetry, and service-state data; GRPO-trained reasoning workflow improved incident resolution rate from 10% to 85% across 60 benchmark evaluations.
+ 
+**[PyQ Platform](https://github.com/mohit4901)** — OCR Academic Search Engine
+React.js · Node.js · MongoDB · Tesseract.js · PDF.js
+OCR-powered academic search engine indexing 10,264+ university examination papers with sub-50ms search latency via optimized MongoDB indexing.
+ 
+**[Wobblix](https://github.com/mohit4901)** — Production-Grade E-Commerce Platform
+React.js · Node.js · MongoDB · Razorpay · JWT · Helmet.js
+Production MERN commerce platform handling 29K+ edge requests with HMAC-SHA256 secured transactions, stateless authentication, and a scalable cloud-native architecture.
+ 
+---
+ 
+### 🛠️ Tech Stack
+ 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="vite logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
 </div>
-
-###
-
+<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit4901&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohit4901&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai badge"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="gemini badge"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface badge"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase badge"/>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit4901/mohit4901/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit4901/mohit4901/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohit4901/mohit4901/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
+---
+ 
+### 📊 GitHub Stats
+ 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="60" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="60" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit4901&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit4901&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="165" alt="top languages" />
 </div>
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohit4901.mohit4901&"  />
+  <img src="https://streak-stats.demolab.com?user=mohit4901&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="165" alt="streak stats" />
 </div>
-
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit4901/mohit4901/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit4901/mohit4901/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohit4901/mohit4901/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+---
+ 
+### 🏅 Achievements
+ 
+- 🥇 Finalist — Meta × Hugging Face × OpenEnv × PyTorch Hackathon 2026 (Top 2.5% among 71K+ developers)
+- 🥇 Winner — Devcation Delhi Hackathon 2026 (IIT Delhi)
+- 🥈 2nd Position — SSH 1.0 Hackathon (Satyaansh SoftTech Pvt. Ltd.)
+- 🥉 3rd Runner-Up — InnovAItion Hackathon (Intuitive.ai)
+- 👨‍💻 Web Development Lead — Google Developers Group On Campus (GDG OC)
+- 📚 Active Member — LISOC (Literature Society On Campus)
+---
+ 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohit4901.mohit4901" alt="visitor badge"/>
+</p>
+<p align="center"><i>📫 Reach out at mohittt0011@gmail.com</i></p>
+ 
