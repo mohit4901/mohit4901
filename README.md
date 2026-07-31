@@ -376,9 +376,9 @@ https://monisoniroyalcollection.in
 
 <div align="center">
 
-### *"First, solve the problem. Then, write the code."*
+### *"Zyada mehnat karo. Zyada mehnat karne se ho jata hai. "*
 
-**– John Johnson**
+**– Zakir Khan (Comedian)**
 
 </div>
 
