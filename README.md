@@ -90,9 +90,8 @@ https://github.com/mohit4901/incidentmind
 
 ---
 
-### 👕
 
-Wobblix
+### Wobblix Clothing
 
 Production Grade Streetwear E-Commerce Platform
 
