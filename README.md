@@ -45,19 +45,19 @@ Computer Science undergraduate building high-performance web applications, intel
 
 <br/>
 
-🔭 **Currently Building:** High-performance full-stack applications and intelligent AI-powered systems.
+ **Currently Building:** High-performance full-stack applications and intelligent AI-powered systems.
 
-🤖 **Focused On:** Applied AI, Machine Learning, Temporal Intelligence, Graph-Based Systems, and scalable backend architecture.
+ **Focused On:** Applied AI, Machine Learning, Temporal Intelligence, Graph-Based Systems, and scalable backend architecture.
 
-🌱 **Currently Learning:** Advanced ML, LLMs, System Design, Cloud Architecture, and Data Structures & Algorithms.
+ **Currently Learning:** Advanced ML, LLMs, System Design, Cloud Architecture, and Data Structures & Algorithms.
 
-💼 **Experience:** Former **Full Stack Developer Intern at GoGlobalways**, where I contributed to the **Bharat AI Olympiad (BAIO)** platform.
+ **Experience:** Former **Full Stack Developer Intern at GoGlobalways**, where I contributed to the **Bharat AI Olympiad (BAIO)** platform.
 
 📄 **Publication:** Co-Author of a research paper accepted in **Elsevier SSRN Proceedings (ICDPN 2026)**.
 
 🏆 **Achievement:** Finalist in the **Meta × Hugging Face × OpenEnv × PyTorch Hackathon 2026**, ranking in the **Top 2.5% among 71K+ developers**.
 
-🎯 **Goal:** Build intelligent products and scalable systems that solve meaningful real-world problems.
+ **Goal:** Build intelligent products and scalable systems that solve meaningful real-world problems.
 
 <br/>
 
@@ -69,7 +69,7 @@ Computer Science undergraduate building high-performance web applications, intel
 
 # 🚀 Featured Projects
 
-## ⚔️ VYUH (व्यूह)
+##  VYUH (व्यूह)
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Computer Science undergraduate building high-performance web applications, intel
 
 > **A real-time fraud intelligence system that combines tabular machine learning with temporal and relational transaction signals.**
 
-### 🧠 What It Does
+###  What It Does
 
 Traditional fraud detection evaluates transactions individually.
 
@@ -96,7 +96,7 @@ It combines:
 * 📊 Streaming fraud signals
 * 🐳 Containerized deployment architecture
 
-### 📈 Performance
+###  Performance
 
 ```text
 📦 Total Transactions Processed     → 590K+
@@ -120,13 +120,10 @@ It combines:
 
 </p>
 
-### 🔗 Repository
-
-👉 **ADD YOUR VYUH GITHUB REPOSITORY LINK HERE**
 
 ---
 
-## 🛰️ PRAHARI
+##  PRAHARI
 
 <div align="center">
 
@@ -171,13 +168,11 @@ It combines:
 
 </p>
 
-### 🔗 Repository
 
-👉 **ADD YOUR PRAHARI GITHUB REPOSITORY LINK HERE**
 
 ---
 
-## 🛍️ Wobblix Clothing
+##  Wobblix Clothing
 
 <div align="center">
 
