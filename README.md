@@ -375,40 +375,27 @@ Worked on the **Bharat AI Olympiad (BAIO)** platform, contributing across multip
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=mohit4901&hide_border=true" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohit4901&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit4901&layout=compact&hide_border=true" alt="Top Languages"/>
+<img 
+src="https://streak-stats.demolab.com?user=mohit4901&theme=github-dark-blue&hide_border=true" 
+alt="GitHub Streak"
+/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit4901&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=mohit4901&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" 
+alt="Contribution Graph"
+/>
 
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohit4901&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
-
-</div>
-
 ---
 # 🏅 Achievements
 
