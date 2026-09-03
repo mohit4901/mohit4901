@@ -375,9 +375,9 @@ Worked on the **Bharat AI Olympiad (BAIO)** platform, contributing across multip
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit4901&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=mohit4901&hide_border=true" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohit4901&show_icons=true&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohit4901&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
 
 </div>
 
@@ -385,7 +385,7 @@ Worked on the **Bharat AI Olympiad (BAIO)** platform, contributing across multip
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit4901&layout=compact&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit4901&layout=compact&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -395,7 +395,7 @@ Worked on the **Bharat AI Olympiad (BAIO)** platform, contributing across multip
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit4901&theme=github-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit4901&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -405,12 +405,11 @@ Worked on the **Bharat AI Olympiad (BAIO)** platform, contributing across multip
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohit4901&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohit4901&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
 ---
-
 # 🏅 Achievements
 
 🥇 **Winner** — Devcation Delhi Hackathon 2026, IIT Delhi
