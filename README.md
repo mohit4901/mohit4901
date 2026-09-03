@@ -35,7 +35,7 @@ Computer Science undergraduate building high-performance web applications, intel
 </p>
 
 ---
-# 👨‍💻 About Me
+# About Me
 
 <div align="center">
      <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="400" alt="Coding GIF"/>
